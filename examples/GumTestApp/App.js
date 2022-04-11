@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     ...StyleSheet.absoluteFill
   },
   stream: {
-    flex: 1
+    flex: 1,
   },
   footer: {
     backgroundColor: Colors.lighter,
